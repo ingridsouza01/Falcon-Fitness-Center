@@ -1,0 +1,84 @@
+body {
+		background-color: white; 
+		color: grey;
+		font-family: Time New Roman, Arial, serif;
+	    font-size: 20pt;
+		
+		}
+
+h1 {
+		background-color:#4A7759;
+		color: white;
+		font-family: Arial, serif;
+		font-size: 20pt;
+		}
+p  {
+		border: solid 1px green;
+		padding: 20px;
+		margin:20px ;
+		border-style: ;
+		border-width: ;
+		border-color: ;
+		border-bottom-color: ;
+		border-left-color: ;
+		border-top-color: ;
+		border-right-color: ;
+		border-radius: 20px;
+		box-shadow: 5px 5px 5px black;
+		border-left-width: 0px;
+		text-align:center;
+		}
+
+table  {
+		border: solid 1px green;
+		padding: 20px;
+		margin:20px ;
+		border-style: ;
+		border-width: ;
+		border-color: ;
+		border-bottom-color: ;
+		border-left-color: ;
+		border-top-color: ;
+		border-right-color: ;
+		border-radius: 20px;
+		box-shadow: 5px 5px 5px black;
+		border-left-width: 0px;
+		text-align:center;
+		}
+h6 {
+	
+		background-color: white;
+		color: grey;
+		font-family: calibri;
+		font-size: 18pt;
+		}
+ul {
+		display: inline black;
+		border: solid 1px green;
+		padding: 30px;
+		padding-bottom: ;
+		margin: 20px;
+		border-style: ;
+		border-width: ;
+		border-color: ;
+		border-bottom-color: ;
+		border-left-color: ;
+		border-top-color: ;
+		border-right-color: ;
+		border-radius: 20px;
+		box-shadow: 5px 5px 5px black;
+		text-align: left;
+        }
+.container1 {
+		margin-left: auto;
+		margin-right: auto;
+       }
+.container2 {
+	
+	display: flex;
+		}
+		
+footer {
+	
+	font-size: 12pt;
+	}
